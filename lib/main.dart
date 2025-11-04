@@ -154,7 +154,7 @@ class _HomePageState extends State<HomePage>
                     border: Border.all(color: Colors.white.withOpacity(0.06)),
                   ),
                   child: const Text(
-                    'Flutter Developer',
+                    'Flutter Developer.',
                     style: TextStyle(color: Colors.white70),
                   ),
                 ),
