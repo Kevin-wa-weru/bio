@@ -218,8 +218,8 @@ class _HomePageState extends State<HomePage>
                   child: Column(
                     children: const [
                       ExperienceCard(
-                        company: 'Parcel Grid',
-                        role: 'Flutter Developer',
+                        company: 'Parcel Grid.',
+                        role: 'Flutter Developer.',
                         period: 'Jun 2023 – Present',
                         bullets: [
                           'Lead end-to-end development of the Parcel Grid mobile app, powering real-time parcel delivery,tracking and wallet systems',
