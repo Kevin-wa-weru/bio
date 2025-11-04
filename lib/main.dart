@@ -220,7 +220,7 @@ class _HomePageState extends State<HomePage>
                       ExperienceCard(
                         company: 'Parcel Grid.',
                         role: 'Flutter Developer.',
-                        period: 'Jun 2023 – Present',
+                        period: 'Jun 2023 – Present.',
                         bullets: [
                           'Lead end-to-end development of the Parcel Grid mobile app, powering real-time parcel delivery,tracking and wallet systems',
                           'Developed a scalable link-sharing and referral feature, improving user engagement by 22% within the first month',
